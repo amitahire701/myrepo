@@ -3,3 +3,4 @@ adding more text to this file
 test1
 test2
 test3
+added by another developer
